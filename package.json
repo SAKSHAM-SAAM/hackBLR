@@ -1,0 +1,11 @@
+{
+  "name": "hackblr",
+  "version": "1.0.0",
+  "description": "Hack BLR event on 11 05 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saksham/ kanav/ kapil/ angad",
+  "license": "MIT"
+}
